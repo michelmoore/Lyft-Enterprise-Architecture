@@ -4,7 +4,7 @@
 Michel Moore & Tristan Pender
 
 ### Context
-This repository contains our final submission for SEG4300 Enterprise Architecture, a fourth year course at the University of Ottawa.
+This repository contains our final submission for SEG4300 Enterprise Architecture, a fourth year software engineering course at the University of Ottawa.
 
 ### Aim
 To create an outline logical level of architecture for Lyft, Inc. using the TOGAF model set with the maximal use of the Archimate modeling language.
