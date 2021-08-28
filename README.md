@@ -1,5 +1,8 @@
 # Lyft Enterprise Architecture
 
+### Authors
+Michel Moore & Tristan Pender
+
 ### Context
 The contents of this repository represent our final submission for SEG4300 Enterprise Architecture, a fourth year course at the University of Ottawa.
 
